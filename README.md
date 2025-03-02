@@ -141,5 +141,3 @@ You can deploy this chatbot using **AWS Lambda, EC2, or containerized services**
 
 ## 6. Contributing
 Feel free to open issues and pull requests. Let's improve this together! 🚀
-
----
