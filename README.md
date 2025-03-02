@@ -143,7 +143,3 @@ You can deploy this chatbot using **AWS Lambda, EC2, or containerized services**
 Feel free to open issues and pull requests. Let's improve this together! 🚀
 
 ---
-
-## 7. License
-This project is licensed under the **MIT License**.
-
