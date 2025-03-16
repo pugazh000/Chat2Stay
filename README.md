@@ -66,7 +66,7 @@ You'll be prompted to enter:
 
 ### Step 5: Clone the Repository
 ```sh
-git clone https://github.com/yourusername/aws-lex-chatbot.git
+git clone https://github.com/pugazh000/aws-lex-chatbot.git
 cd aws-lex-chatbot
 ```
 
